@@ -1,0 +1,85 @@
+/*Variáveis*/
+:root {
+    --bgSite: #f6f6f6;
+    --bgCard: #ebe9ea;
+    
+    --white: #fff;
+  
+    --title: #181818;
+    --text: #474747;
+  }
+  
+  /*Reset*/
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-size: 62.5%;
+  }
+  body {
+    font-size: 1.6rem;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0;
+  }
+  ul,
+  ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    text-decoration: none;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  button,
+  input {
+    border: 0;
+  }
+  button:focus,
+  input:focus {
+    border: 0;
+  }
+
+  .desconto{
+    background-color: var(--title);
+    color: var(--white); 
+    padding: 10px;  
+  }
+  .desconto #ganhe{
+      text-align: center;
+  }
+  .name-loja{
+      padding: 10px;
+  }
+  .name-loja #jordan{
+      text-align: center;
+  }
+
+  .wallpa{
+    background-image:linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0)), url(/img/wallpaper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+   
+    width: 100%; /*largura*/
+    height: 378px;
+    left: 0px;
+    top: 119px;
+  }
+  .texto-home{
+      color: var(--bgSite);
+      padding: 150px;
+  }
