@@ -83,3 +83,88 @@
       color: var(--bgSite);
       padding: 150px;
   }
+
+  .destaques{
+    text-align: center;
+    padding: 50px;
+  }
+
+  .box-tenis1{
+    background-color: var(--bgCard);
+    position: absolute;
+    width: 280px;
+    height: 200px;
+    left: 120px;
+    top: 712px;
+
+
+  }
+
+  .box-tenis2{
+    background-color: var(--bgCard);
+    position: absolute;
+    width: 280px;
+    height: 200px;
+    left: 413px;
+    top: 712px;
+  }
+  .box-tenis3{
+    background-color: var(--bgCard);
+    position: absolute;
+    width: 280px;
+    height: 200px;
+    left: 706px;
+    top: 712px;
+  }
+  .box-tenis4{
+    background-color: var(--bgCard);
+    position: absolute;
+    width: 280px;
+    height: 200px;
+    left: 1000px;
+    top: 712px;
+  }
+  .box-tenis5{
+    background-color: var(--bgCard);
+    position: absolute;
+    width: 280px;
+    height: 200px;
+    left: 120px;
+    top: 930px;
+
+  }
+  .box-tenis6{
+    background-color: var(--bgCard);
+    position: absolute;
+    width: 280px;
+    height: 200px;
+    left: 413px;
+    top: 930px;
+
+  }
+  .box-tenis7{
+    background-color: var(--bgCard);
+    position: absolute;
+    width: 280px;
+    height: 200px;
+    left: 706px;
+    top: 930px;
+
+  }
+  .box-tenis8{
+    background-color: var(--bgCard);
+    position: absolute;
+    width: 280px;
+    height: 200px;
+    left: 1000px;
+    top: 930px;
+
+  }
+
+
+
+  .tenis{
+    width: 250px;
+    
+    
+  }
