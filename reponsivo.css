@@ -1,0 +1,131 @@
+@media screen and (max-width: 500px) {
+   
+    .desconto{
+       
+        width: 400px;
+        height: 31px;
+        left: 58px;
+        top: 15px;
+        
+    }
+}
+
+@media screen and (max-width:500px) {
+
+    .wallpa{
+        background-repeat: no-repeat;
+        background-position: center;
+
+        height: 330px;
+        width: 400px;
+        left: 0px;
+        top: 140px;
+        border-radius: 0px;
+        
+ 
+}
+.texto-home{
+    padding: 120px;
+    font-size: 14px;
+    
+}
+    
+}
+@media screen and (max-width:500px){
+
+    .box-tenis1{
+    position: absolute;
+    height: 200px;
+    width: 300px;
+    left: 50px;
+    top: 724px;
+    
+
+    }
+
+    .box-tenis2{
+        height: 200px;
+        width: 300px;
+        left: 50px;
+        top: 1056px;
+     
+        
+
+    }
+    .box-tenis3{
+        height: 200px;
+        width: 300px;
+        left: 50px;
+        top: 1388px;
+        
+
+
+    }
+
+    .box-tenis4{
+
+        height: 200px;
+        width: 300px;
+        left: 50px;
+        top: 1720px;
+        border-radius: 0px;
+        
+    }
+
+    .box-tenis5{
+        height: 200px;
+    width: 300px;
+    left: 50px;
+        top: 2052px;
+        border-radius: 0px;
+        
+        
+    }
+
+    .box-tenis6{
+        height: 200px;
+        width: 300px;
+        left: 50px;
+        top: 2384px;
+        border-radius: 0px;
+        
+        
+    }
+
+    .box-tenis7{
+        height: 200px;
+        width: 300px;
+        left: 50px;
+        top: 2716px;
+        border-radius: 0px;
+        
+        
+    }
+
+    .box-tenis8{
+        height: 200px;
+        width: 300px;
+        left: 50px;
+        top: 3048px;
+        border-radius: 0px;
+        
+    }
+}
+
+
+@media screen and (max-width:500px){
+
+.diretos-end{
+
+height: 40px;
+width: 400px;
+left: 0px;
+top: 3400px;
+border-radius: 0px;
+
+}
+
+
+
+
+}

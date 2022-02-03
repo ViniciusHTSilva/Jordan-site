@@ -71,8 +71,9 @@
     background-image:linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0)), url(/img/wallpaper.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
+    background-position: center;
+ 
+
    
     width: 100%; /*largura*/
     height: 378px;
@@ -168,3 +169,14 @@
     
     
   }
+
+  .diretos-end{
+    background-color: var(--title);
+    color: var(--white);
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    top: 1200px;
+  }
+
