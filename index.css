@@ -58,45 +58,53 @@
     padding: 10px;  
   }
   .desconto #ganhe{
-      text-align: center;
+    background-color: var(--title);
+    color: var(--white);
+    text-align: center;
+    font-size: 20px;
+    width: 100%;
   }
   .name-loja{
-      padding: 10px;
-  }
-  .name-loja #jordan{
+      padding: 30px;
+      font-size: 30px;
       text-align: center;
   }
+
 
   .wallpa{
     background-image:linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0)), url(/img/wallpaper.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
+
  
 
    
     width: 100%; /*largura*/
-    height: 378px;
+    height: 578px;
     left: 0px;
     top: 119px;
   }
   .texto-home{
       color: var(--bgSite);
       padding: 150px;
+      font-size: 40px;
   }
 
   .destaques{
     text-align: center;
     padding: 50px;
+    font-size: 40px;
   }
 
   .box-tenis1{
     background-color: var(--bgCard);
     position: absolute;
-    width: 280px;
-    height: 200px;
-    left: 120px;
-    top: 712px;
+    width: 430px;
+    height: 280px;
+    left: 430px;
+    top: 1000px;
 
 
   }
@@ -104,68 +112,69 @@
   .box-tenis2{
     background-color: var(--bgCard);
     position: absolute;
-    width: 280px;
-    height: 200px;
-    left: 413px;
-    top: 712px;
+    width: 430px;
+    height: 280px;
+    left: 870px;
+    top: 1000px;
   }
   .box-tenis3{
     background-color: var(--bgCard);
     position: absolute;
-    width: 280px;
-    height: 200px;
-    left: 706px;
-    top: 712px;
+    width: 430px;
+    height: 280px;
+    left: 1310px;
+    top: 1000px;
   }
   .box-tenis4{
     background-color: var(--bgCard);
     position: absolute;
-    width: 280px;
-    height: 200px;
-    left: 1000px;
-    top: 712px;
+    width: 430px;
+    height: 280px;
+    left: 1750px;
+    top: 1000px;
   }
   .box-tenis5{
     background-color: var(--bgCard);
     position: absolute;
-    width: 280px;
-    height: 200px;
-    left: 120px;
-    top: 930px;
+    width: 430px;
+    height: 280px;
+    left: 430px;
+    top: 1300px;
+
 
   }
   .box-tenis6{
     background-color: var(--bgCard);
     position: absolute;
-    width: 280px;
-    height: 200px;
-    left: 413px;
-    top: 930px;
+    width: 430px;
+    height: 280px;
+    left: 870px;
+    top: 1300px;
 
   }
   .box-tenis7{
     background-color: var(--bgCard);
     position: absolute;
-    width: 280px;
-    height: 200px;
-    left: 706px;
-    top: 930px;
+    width: 430px;
+    height: 280px;
+    left: 1310px;
+    top: 1300px;
 
   }
   .box-tenis8{
     background-color: var(--bgCard);
     position: absolute;
-    width: 280px;
-    height: 200px;
-    left: 1000px;
-    top: 930px;
+    width: 430px;
+    height: 280px;
+    left: 1750px;
+    top: 1300px;
 
   }
 
 
 
   .tenis{
-    width: 250px;
+    width: 550px;
     
     
   }
@@ -174,9 +183,10 @@
     background-color: var(--title);
     color: var(--white);
     text-align: center;
+    font-size: 20px;
     position: absolute;
     width: 100%;
-    height: 30px;
-    top: 1200px;
+    height: 50px;
+    top: 1750px;
   }
 
