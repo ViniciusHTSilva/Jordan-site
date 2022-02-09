@@ -2,8 +2,9 @@
    
     .desconto {
        
-        width: 3755x;
-        height: 30px;
+        height: 40px;
+        width: 375px;
+        
 
  
 
@@ -12,8 +13,9 @@
     }
 
     .desconto #ganhe{
-        font-size: 10px;
-    }
+   
+        font-size: 20px;
+ }
     .name-loja{
         padding: 30px;
         font-size: 20px;
@@ -38,7 +40,7 @@
 }
 .texto-home{
     padding: 80px;
-    font-size: 14px;
+    font-size: 19px;
     
 }
 .destaques{
@@ -140,7 +142,7 @@ width: 375px;
 left: 0px;
 top: 2800px;
 border-radius: 0px;
-font-size: 16px;
+font-size: 20px;
 
 }
 
