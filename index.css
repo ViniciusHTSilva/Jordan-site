@@ -77,7 +77,7 @@
 
 
   .wallpa{
-    background-image:linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0)), url(../img/wallpaper.jpeg);
+    background-image:linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0)), url(./img/wallpaper.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
