@@ -1,4 +1,4 @@
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 578px) {
    
     .desconto {
        
@@ -24,7 +24,7 @@
     }
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:578px) {
 
     .wallpa{
         background-repeat: no-repeat;
@@ -50,7 +50,7 @@
   }
     
 }
-@media screen and (max-width:500px){
+@media screen and (max-width:578px){
 
     .box-tenis1{
     position: absolute;
@@ -133,8 +133,10 @@
 }
 
 
-@media screen and (max-width:500px){
+@media screen and (max-width:578px){
+    
 
+ 
 .diretos-end{
 
 height: 40px;
