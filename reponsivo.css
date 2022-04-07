@@ -56,20 +56,24 @@
 }
 @media screen and (max-width:578px){
 
+    .catalogo{
+        right: 50px;
+     
+    }
     .box-tenis1{
     position: absolute;
     height: 200px;
     width: 320px;
-    left: 20px;
+    left: 40px;
     top: 724px;
-    
+
 
     }
 
     .box-tenis2{
         height: 200px;
         width: 320px;
-        left: 20px;
+        left: 40px;
         top: 980px;
      
         
@@ -78,7 +82,7 @@
     .box-tenis3{
         height: 200px;
         width: 320px;
-        left: 20px;
+        left: 40px;
         top: 1240px;
         
 
@@ -89,7 +93,7 @@
 
         height: 200px;
         width: 320px;
-        left: 20px;
+        left: 40px;
         top: 1500px;
      
         
@@ -98,7 +102,7 @@
     .box-tenis5{
         height: 200px;
         width: 320px;
-        left: 20px;
+        left: 40px;
         top: 1760px;
     
         
@@ -108,7 +112,7 @@
     .box-tenis6{
         height: 200px;
         width: 320px;
-        left: 20px;
+        left: 40px;
         top: 2020px;
         
         
@@ -117,7 +121,7 @@
     .box-tenis7{
         height: 200px;
         width: 320px;
-        left: 20px;
+        left: 40px;
         top: 2280px;
         
         
@@ -126,7 +130,7 @@
     .box-tenis8{
         height: 200px;
         width: 320px;
-        left: 20px;
+        left: 40px;
         top: 2540px;
 
         
