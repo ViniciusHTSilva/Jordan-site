@@ -15,6 +15,7 @@
     .desconto #ganhe{
    
         font-size: 20px;
+        width: 100%;
  }
     .name-loja{
         padding: 30px;
@@ -31,7 +32,7 @@
         background-position: center;
 
         height: 330px;
-        width: 375px;
+        width: 100%;
         left: 0px;
         top: 140px;
         border-radius: 0px;
@@ -140,7 +141,7 @@
 .diretos-end{
 
 height: 40px;
-width: 375px;
+width: 100%;
 left: 0px;
 top: 2800px;
 border-radius: 0px;
